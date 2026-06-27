@@ -1,0 +1,33 @@
+Projeto de Redes Complexas - Proteína de teste 1A3N
+======================================================================
+Proteína: 1A3N
+Limiar de distância: 8.0 Å
+Nós: 572
+Arestas: 2828
+Comunidades Louvain: 14
+Modularidade: 0.7714
+ARI comunidade × cadeia: 0.2877
+NMI comunidade × cadeia: 0.5487
+
+Arquivos exportados:
+1A3N.pdb
+1A3N_3d_comunidades.html
+1A3N_arestas.csv
+1A3N_centralidades.csv
+1A3N_comunidade_x_cadeia.csv
+1A3N_comunidades_louvain.csv
+1A3N_distribuicao_graus.csv
+1A3N_graus_loglog.png
+1A3N_heatmap_comunidade_x_cadeia.png
+1A3N_histograma_graus.png
+1A3N_histogramas_centralidades.png
+1A3N_metricas_rede.csv
+1A3N_metricas_validacao.csv
+1A3N_residuos_ca.csv
+1A3N_resumo_comunidades.csv
+1A3N_top20_betweenness.csv
+1A3N_top20_closeness.csv
+1A3N_top20_degree_centrality.csv
+1A3N_top20_eigenvector.csv
+1A3N_top20_grau.csv
+1A3N_top20_pagerank.csv

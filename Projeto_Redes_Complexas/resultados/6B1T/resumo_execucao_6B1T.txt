@@ -1,0 +1,44 @@
+Projeto de Redes Complexas - Proteína-alvo 6B1T
+======================================================================
+Proteína: 6B1T
+Arquivos PDB: 6b1t-pdb-bundle1.pdb, 6b1t-pdb-bundle2.pdb
+Limiar de distância: 8.0 Å
+Nós: 12544
+Arestas: 66809
+Comunidades Louvain: 30
+Modularidade: 0.8971
+Purity: 0.9298
+ARI: 0.0116
+NMI: 0.1928
+Homogeneity: 0.6414
+Completeness: 0.1134
+
+Arquivos exportados:
+6B1T_3d_comunidades.html
+6B1T_arestas.csv
+6B1T_centralidades.csv
+6B1T_comunidade_x_cadeia.csv
+6B1T_comunidade_x_familia_rcsb.csv
+6B1T_comunidade_x_hexon_penton.csv
+6B1T_comunidades_com_familias.csv
+6B1T_comunidades_louvain.csv
+6B1T_contagem_familias_rcsb.csv
+6B1T_distribuicao_graus.csv
+6B1T_graus_loglog.png
+6B1T_heatmap_comunidade_familia_rcsb.png
+6B1T_heatmap_comunidade_x_cadeia.png
+6B1T_heatmap_comunidade_x_familia_rcsb.png
+6B1T_heatmap_comunidade_x_hexon_penton.png
+6B1T_histograma_graus.png
+6B1T_histogramas_centralidades.png
+6B1T_metricas_rede.csv
+6B1T_metricas_validacao_biologica.csv
+6B1T_residuos_ca.csv
+6B1T_resumo_comunidades.csv
+6B1T_tabela_comunidade_familia_rcsb.csv
+6B1T_top20_betweenness.csv
+6B1T_top20_closeness.csv
+6B1T_top20_degree_centrality.csv
+6B1T_top20_eigenvector.csv
+6B1T_top20_grau.csv
+6B1T_top20_pagerank.csv
