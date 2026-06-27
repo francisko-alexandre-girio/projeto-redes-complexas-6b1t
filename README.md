@@ -216,7 +216,7 @@ kaleido
 
 ---
 
-## Referências
+## References
 
 - PDB 1A3N: Deoxyhemoglobin — [https://www.rcsb.org/structure/1A3N](https://www.rcsb.org/structure/1A3N)
 - PDB 6B1T: Human Adenovirus Type 5 — [https://www.rcsb.org/structure/6B1T](https://www.rcsb.org/structure/6B1T)
